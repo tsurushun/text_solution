@@ -1,0 +1,9 @@
+# AWS
+AWS:
+  AWS_REGION: "us-west-2"
+  SQS_QUEUE_NAME: "notify-doc-addition"
+  BUCKET_NAME: "text-solution"
+
+# elasticsearch
+elasticsearch:
+  HOST: "127.0.0.1"
