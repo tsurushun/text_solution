@@ -1,5 +1,6 @@
 # text_solution
-Extracts entities, sentiment and key phrases from texts, then stores them in a searchable format using elasticsearch
+Extracts entities, sentiment and key phrases from texts, then stores them in a searchable format using elasticsearch.  
+Inteaded as a quick demo to show what you can do with text analytics using cloud services 
 
 ## Architecture
 
